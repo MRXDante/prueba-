@@ -51,7 +51,7 @@ Para eso vas a cerrar sesión de whatsapp wed en el numero de tu bot y en termux
 Una vez hecho eso vas a colorcar en termux los siguientes comandos
 
 ```bash
-> git clone https://github.com/shanduy/ShanBot
+> git clone https://github.com/MRXDante/prueba-.git
 > cd ShanBot
 > npm start
 ```
